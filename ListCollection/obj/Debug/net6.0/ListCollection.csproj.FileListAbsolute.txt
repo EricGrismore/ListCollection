@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\bin\Debug\net6.0\ListCollection.exe
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\bin\Debug\net6.0\ListCollection.deps.json
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\bin\Debug\net6.0\ListCollection.runtimeconfig.json
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\bin\Debug\net6.0\ListCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\bin\Debug\net6.0\ListCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.AssemblyInfo.cs
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\refint\ListCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ListCollection.genruntimeconfig.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\ListCollection\ListCollection\obj\Debug\net6.0\ref\ListCollection.dll
